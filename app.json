@@ -22,6 +22,12 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "json"
+      ]
     }
   }
 }
+
