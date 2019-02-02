@@ -3,7 +3,7 @@ import AssetUtils from 'expo-asset-utils';
 import React from 'react';
 import { View } from 'react-native';
 import Assets from './Assets';
-import Controls from './Controls';
+import Controls from './basic/Controls';
 
 export default class App extends React.Component {
   state = {

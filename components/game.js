@@ -2,7 +2,6 @@
 import Expo from 'expo';
 import ExpoPhaser from 'expo-phaser';
 import React from 'react';
-
 import Playable from './states/Playable';
 
 export default class Game {
